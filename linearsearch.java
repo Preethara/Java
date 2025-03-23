@@ -1,4 +1,4 @@
-package com.codetodevop.java.linearsearch
+package com.codetodevop.javaoopsconcept;
 import java.util.*;
 public class Main {
  public static int search(int[] arr, int key){
